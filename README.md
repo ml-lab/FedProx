@@ -57,7 +57,7 @@ The training loss, testing accuracy and dissimilarity measurement figures are sa
 ```
 pip3 install -r requirements.txt
 ```
-(2) Then specify a GPU id if you have want to use GPUs:
+(2) Then specify a GPU id if you want to use GPUs:
 
 ```
 export CUDA_VISIBLE_DEVICES=available_gpu_id
